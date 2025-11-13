@@ -2,7 +2,7 @@
 
 # Hi, I’m Shreya Urvashi 👋
 
-**Social scientist → data & insights** • Toronto 🇨🇦  
+**Social scientist → data & insights** • Toronto  
 Program development (Empowered Futures), education consulting (Athena), mixed‑methods research (TISS/ICSSR).  
 Now building open, reproducible analytics for **market research**, **education & social impact**, and **public data in Canada**.
 
